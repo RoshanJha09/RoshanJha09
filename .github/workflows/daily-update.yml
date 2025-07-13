@@ -1,0 +1,46 @@
+name: 🕒 Update Daily Motivation
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # Every day at 9:30 AM IST
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with quote and log
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Daily Content
+        id: generate
+        run: |
+          echo "QUOTES=(" \
+          "\"Keep pushing, the universe rewards persistence.\"" \
+          "\"Success is not final; failure is not fatal: It is the courage to continue that counts.\"" \
+          "\"Grind in silence, shine in public.\"" \
+          "\"You are not your past. You are your potential.\"" \
+          "\"Every champion was once a contender that refused to give up.\"" \
+          ")" >> $GITHUB_ENV
+          
+          RANDOM_INDEX=$((RANDOM % ${#QUOTES[@]}))
+          SELECTED_QUOTE=${QUOTES[$RANDOM_INDEX]}
+          
+          echo "content=🗓️ $(date +"%d-%m-%Y")\n🧠 $SELECTED_QUOTE\n🕒 IST Time: $(TZ='Asia/Kolkata' date +'%I:%M %p')\n🔥 Mood: Locked In 🚀" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        uses: andymckay/readme-box@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          section: daily_log
+          content: "${{ steps.generate.outputs.content }}"
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "RoshanJha09"
+          git config --global user.email "rj354074@gmail.com"
+          git add README.md
+          git commit -m "🔥 Daily update by GitHub Action" || echo "No changes"
+          git push
