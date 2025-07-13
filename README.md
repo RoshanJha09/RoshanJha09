@@ -10,10 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-🗓️ 13-07-2025
-🧠 Every champion was once a contender that refused to give up.
-🕒 IST Time: 12:50 AM
-🔥 Mood: Locked In 🚀
+It's easier to lose than to win.   — Wayne Gretzky
 <!--END_SECTION:daily_log-->
 
 ---
