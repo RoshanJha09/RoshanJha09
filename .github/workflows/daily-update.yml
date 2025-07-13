@@ -1,42 +1,37 @@
-name: 🕒 Update Daily Motivation
+name: Update Daily Motivation
 
 on:
-  schedule:
-    - cron: '0 4 * * *'  # Every day at 9:30 AM IST
   workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * *' # runs daily at 9:30 AM IST
 
 jobs:
   update-readme:
-    name: Update README with quote and log
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Generate Daily Content
-        id: generate
-        run: |
-          QUOTES=(
-            "Keep pushing, the universe rewards persistence."
-            "Success is not final; failure is not fatal: It is the courage to continue that counts."
-            "Grind in silence, shine in public."
-            "You are not your past. You are your potential."
-            "Every champion was once a contender that refused to give up."
-          )
-          RANDOM_INDEX=$((RANDOM % ${#QUOTES[@]}))
-          SELECTED_QUOTE=${QUOTES[$RANDOM_INDEX]}
-          echo "content=🗓️ $(date +"%d-%m-%Y")\n🧠 $SELECTED_QUOTE\n🕒 IST Time: $(TZ='Asia/Kolkata' date +'%I:%M %p')\n🔥 Mood: Locked In 🚀" >> $GITHUB_OUTPUT
+    - name: Get a daily quote
+      id: generate
+      run: |
+        curl -s https://zenquotes.io/api/random | jq -r '.[0].q + " — " + .[0].a' > quote.txt
+        echo "content=$(cat quote.txt)" >> $GITHUB_OUTPUT
 
-      - name: Update README section
-        run: |
-          content="${{ steps.generate.outputs.content }}"
-          awk '/<!--START_SECTION:daily_log-->/ { print; print content; skip=1; next } /<!--END_SECTION:daily_log-->/ { skip=0 } !skip' content="$content" README.md > temp.md && mv temp.md README.md
+    - name: Update README
+      run: |
+        content="${{ steps.generate.outputs.content }}"
+        awk -v content="$content" '
+          /<!--START_SECTION:daily_log-->/ { print; print content; skip=1; next }
+          /<!--END_SECTION:daily_log-->/ { skip=0 }
+          !skip
+        ' README.md > temp.md && mv temp.md README.md
 
-      - name: Commit changes
-        run: |
-          git config --global user.name "RoshanJha09"
-          git config --global user.email "rj354074@gmail.com"
-          git add README.md
-          git commit -m "🔥 Daily update by GitHub Action" || echo "No changes"
-          git push
+    - name: Commit changes
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add README.md
+        git commit -m "💬 Update daily motivation"
+        git push
