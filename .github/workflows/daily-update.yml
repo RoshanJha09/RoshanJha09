@@ -17,25 +17,21 @@ jobs:
       - name: Generate Daily Content
         id: generate
         run: |
-          echo "QUOTES=(" \
-          "\"Keep pushing, the universe rewards persistence.\"" \
-          "\"Success is not final; failure is not fatal: It is the courage to continue that counts.\"" \
-          "\"Grind in silence, shine in public.\"" \
-          "\"You are not your past. You are your potential.\"" \
-          "\"Every champion was once a contender that refused to give up.\"" \
-          ")" >> $GITHUB_ENV
-          
+          QUOTES=(
+            "Keep pushing, the universe rewards persistence."
+            "Success is not final; failure is not fatal: It is the courage to continue that counts."
+            "Grind in silence, shine in public."
+            "You are not your past. You are your potential."
+            "Every champion was once a contender that refused to give up."
+          )
           RANDOM_INDEX=$((RANDOM % ${#QUOTES[@]}))
           SELECTED_QUOTE=${QUOTES[$RANDOM_INDEX]}
-          
           echo "content=🗓️ $(date +"%d-%m-%Y")\n🧠 $SELECTED_QUOTE\n🕒 IST Time: $(TZ='Asia/Kolkata' date +'%I:%M %p')\n🔥 Mood: Locked In 🚀" >> $GITHUB_OUTPUT
 
-      - name: Update README
-        uses: andymckay/readme-box@main
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          section: daily_log
-          content: "${{ steps.generate.outputs.content }}"
+      - name: Update README section
+        run: |
+          content="${{ steps.generate.outputs.content }}"
+          awk '/<!--START_SECTION:daily_log-->/ { print; print content; skip=1; next } /<!--END_SECTION:daily_log-->/ { skip=0 } !skip' content="$content" README.md > temp.md && mv temp.md README.md
 
       - name: Commit changes
         run: |
