@@ -1,37 +1,37 @@
 name: Update Daily Motivation
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 4 * * *' # runs daily at 9:30 AM IST
+    - cron: '0 4 * * *' # every day at 9:30 AM IST
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout repo
       uses: actions/checkout@v3
 
-    - name: Get a daily quote
-      id: generate
+    - name: Fetch daily quote
+      id: get_quote
       run: |
         curl -s https://zenquotes.io/api/random | jq -r '.[0].q + " — " + .[0].a' > quote.txt
-        echo "content=$(cat quote.txt)" >> $GITHUB_OUTPUT
+        echo "quote=$(cat quote.txt)" >> "$GITHUB_OUTPUT"
 
     - name: Update README
       run: |
-        content="${{ steps.generate.outputs.content }}"
-        awk -v content="$content" '
-          /<!--START_SECTION:daily_log-->/ { print; print content; skip=1; next }
+        quote="${{ steps.get_quote.outputs.quote }}"
+        awk -v quote="$quote" '
+          /<!--START_SECTION:daily_log-->/ { print; print quote; skip=1; next }
           /<!--END_SECTION:daily_log-->/ { skip=0 }
           !skip
-        ' README.md > temp.md && mv temp.md README.md
+        ' README.md > temp && mv temp README.md
 
     - name: Commit changes
       run: |
         git config user.name github-actions
         git config user.email github-actions@github.com
         git add README.md
-        git commit -m "💬 Update daily motivation"
+        git commit -m "🗓️ Update Daily Quote"
         git push
