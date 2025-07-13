@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-It's easier to lose than to win.   — Wayne Gretzky
+We turn not older with years but newer every day. — Emily Dickinson
 <!--END_SECTION:daily_log-->
 
 ---
