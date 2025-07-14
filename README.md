@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-We turn not older with years but newer every day. — Emily Dickinson
+You're only given a little spark of madness. You mustn't lose it. — Robin Williams
 <!--END_SECTION:daily_log-->
 
 ---
