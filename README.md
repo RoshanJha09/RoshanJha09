@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You're only given a little spark of madness. You mustn't lose it. — Robin Williams
+You have the ability, now apply yourself. — Benjamin Mays
 <!--END_SECTION:daily_log-->
 
 ---
