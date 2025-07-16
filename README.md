@@ -28,7 +28,7 @@ Loss is nothing else but change and change is nature's delight. — Marcus Aurel
 ## 📈 GitHub Stats
 
 ![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanJha09&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanJha09&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanJha09&layout=compact&exclude_repo=RoshanJha09)
 
 ---
 
