@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You have the ability, now apply yourself. — Benjamin Mays
+Loss is nothing else but change and change is nature's delight. — Marcus Aurelius
 <!--END_SECTION:daily_log-->
 
 ---
