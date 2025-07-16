@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Loss is nothing else but change and change is nature's delight. — Marcus Aurelius
+⏳ Loading your daily motivation...
 <!--END_SECTION:daily_log-->
 
 ---
