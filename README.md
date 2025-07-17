@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-⏳ Loading your daily motivation...
+As a matter of fact is an expression that precedes many an expression that isn't. — Laurence J. Peter
 <!--END_SECTION:daily_log-->
 
 ---
