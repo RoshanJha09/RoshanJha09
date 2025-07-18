@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-As a matter of fact is an expression that precedes many an expression that isn't. — Laurence J. Peter
+Your home is where your thoughts find peace. — Zen Proverb
 <!--END_SECTION:daily_log-->
 
 ---
