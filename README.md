@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Your home is where your thoughts find peace. — Zen Proverb
+Don't concern yourself with the money. Be of service. Build. Work. Dream. Create. — Earl Nightingale
 <!--END_SECTION:daily_log-->
 
 ---
