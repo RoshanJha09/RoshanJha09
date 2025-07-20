@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Don't concern yourself with the money. Be of service. Build. Work. Dream. Create. — Earl Nightingale
+In order to be walked over, you have to be lying down. — Celestine Chua
 <!--END_SECTION:daily_log-->
 
 ---
