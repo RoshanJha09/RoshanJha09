@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-In order to be walked over, you have to be lying down. — Celestine Chua
+The best way to predict the future is to create it. — Abraham Lincoln
 <!--END_SECTION:daily_log-->
 
 ---
