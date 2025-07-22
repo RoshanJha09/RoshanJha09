@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The best way to predict the future is to create it. — Abraham Lincoln
+It is our choices that show what we truly are, far more than our abilities. — Albus Dumbledore
 <!--END_SECTION:daily_log-->
 
 ---
