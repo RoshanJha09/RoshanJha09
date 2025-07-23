@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-It is our choices that show what we truly are, far more than our abilities. — Albus Dumbledore
+Hope is not a strategy. Luck is not a factor. Fear is not an option. — James Cameron
 <!--END_SECTION:daily_log-->
 
 ---
