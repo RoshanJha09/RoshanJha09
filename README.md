@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Hope is not a strategy. Luck is not a factor. Fear is not an option. — James Cameron
+Surround yourself with only people who are going to lift you higher.  — Oprah Winfrey
 <!--END_SECTION:daily_log-->
 
 ---
