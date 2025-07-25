@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Surround yourself with only people who are going to lift you higher.  — Oprah Winfrey
+Whatever happens always happens on time. — Zen Proverb
 <!--END_SECTION:daily_log-->
 
 ---
