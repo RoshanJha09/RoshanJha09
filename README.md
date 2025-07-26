@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Whatever happens always happens on time. — Zen Proverb
+Your vision will become clear only when you can look into your own heart. — Lolly Daskal
 <!--END_SECTION:daily_log-->
 
 ---
