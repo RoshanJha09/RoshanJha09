@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Your vision will become clear only when you can look into your own heart. — Lolly Daskal
+Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying. — Ming-Dao Deng
 <!--END_SECTION:daily_log-->
 
 ---
