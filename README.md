@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying. — Ming-Dao Deng
+You know the more one does the more one can do. — Amelia Earhart
 <!--END_SECTION:daily_log-->
 
 ---
