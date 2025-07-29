@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You know the more one does the more one can do. — Amelia Earhart
+Until you change how you get things done, you'll never know what works best. — Roy T. Bennett
 <!--END_SECTION:daily_log-->
 
 ---
