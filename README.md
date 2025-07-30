@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Until you change how you get things done, you'll never know what works best. — Roy T. Bennett
+Words without actions are the assassins of idealism. — Herbert Hoover
 <!--END_SECTION:daily_log-->
 
 ---
