@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Words without actions are the assassins of idealism. — Herbert Hoover
+To belittle, you have to be little. — Kahlil Gibran
 <!--END_SECTION:daily_log-->
 
 ---
