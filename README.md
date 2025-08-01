@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-To belittle, you have to be little. — Kahlil Gibran
+Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task. — William James
 <!--END_SECTION:daily_log-->
 
 ---
