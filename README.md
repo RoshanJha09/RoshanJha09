@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task. — William James
+Unless a man is master of his soul, all other kinds of mastery amount to little. — Theodore Roosevelt
 <!--END_SECTION:daily_log-->
 
 ---
