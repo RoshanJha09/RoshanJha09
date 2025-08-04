@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The only thing we have to fear is fear itself. — Franklin D. Roosevelt
+Opportunity often comes disguised in the form of misfortune or temporary defeat. — Napoleon Hill
 <!--END_SECTION:daily_log-->
 
 ---
