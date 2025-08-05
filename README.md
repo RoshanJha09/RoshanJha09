@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Opportunity often comes disguised in the form of misfortune or temporary defeat. — Napoleon Hill
+Learning is a gift, even when pain is your teacher. — Michael Jordan
 <!--END_SECTION:daily_log-->
 
 ---
