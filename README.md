@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Learning is a gift, even when pain is your teacher. — Michael Jordan
+I succeeded by saying what everyone else is thinking. — Joan Rivers
 <!--END_SECTION:daily_log-->
 
 ---
