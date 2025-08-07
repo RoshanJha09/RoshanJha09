@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-I succeeded by saying what everyone else is thinking. — Joan Rivers
+The clock indicates the moment...but what does eternity indicate? — Walt Whitman
 <!--END_SECTION:daily_log-->
 
 ---
