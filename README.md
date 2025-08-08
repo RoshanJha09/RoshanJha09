@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The clock indicates the moment...but what does eternity indicate? — Walt Whitman
+Have the fearless attitude of a hero and the loving heart of a child. — Soyen Shaku
 <!--END_SECTION:daily_log-->
 
 ---
