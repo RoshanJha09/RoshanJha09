@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Have the fearless attitude of a hero and the loving heart of a child. — Soyen Shaku
+What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people. — Jack Butcher
 <!--END_SECTION:daily_log-->
 
 ---
