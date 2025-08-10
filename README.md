@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people. — Jack Butcher
+Extraordinary results happen only when you give the best you have to become the best you can be at your most important work. — Gary Keller
 <!--END_SECTION:daily_log-->
 
 ---
