@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Extraordinary results happen only when you give the best you have to become the best you can be at your most important work. — Gary Keller
+No need to hurry. No need to sparkle. No need to be anybody but oneself. — Virginia Woolf
 <!--END_SECTION:daily_log-->
 
 ---
