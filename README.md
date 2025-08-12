@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-No need to hurry. No need to sparkle. No need to be anybody but oneself. — Virginia Woolf
+Life is much more successfully looked at from a single window. — F. Scott Fitzgerald
 <!--END_SECTION:daily_log-->
 
 ---
