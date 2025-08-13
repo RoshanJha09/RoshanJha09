@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Life is much more successfully looked at from a single window. — F. Scott Fitzgerald
+Change is not a four letter word...but often your reaction to it is! — Jeffrey Gitomer
 <!--END_SECTION:daily_log-->
 
 ---
