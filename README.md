@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Change is not a four letter word...but often your reaction to it is! — Jeffrey Gitomer
+Do not use life to give life to death. Do not use death to bring death to life. — Zhuangzi
 <!--END_SECTION:daily_log-->
 
 ---
