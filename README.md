@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Do not use life to give life to death. Do not use death to bring death to life. — Zhuangzi
+A single dream is more powerful than a thousand realities. — J.R.R. Tolkien
 <!--END_SECTION:daily_log-->
 
 ---
