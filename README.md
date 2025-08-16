@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A single dream is more powerful than a thousand realities. — J.R.R. Tolkien
+Confidence is like a dragon where, for every head cut off, two more heads grow back. — Criss Jami
 <!--END_SECTION:daily_log-->
 
 ---
