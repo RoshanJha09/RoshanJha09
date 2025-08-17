@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Confidence is like a dragon where, for every head cut off, two more heads grow back. — Criss Jami
+A path is made by walking on it. — Zhuangzi
 <!--END_SECTION:daily_log-->
 
 ---
