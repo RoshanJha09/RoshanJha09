@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A path is made by walking on it. — Zhuangzi
+Rewards and punishment is the lowest form of education. — Zhuangzi
 <!--END_SECTION:daily_log-->
 
 ---
