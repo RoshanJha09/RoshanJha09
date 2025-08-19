@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Rewards and punishment is the lowest form of education. — Zhuangzi
+Everyone you admire was once a beginner. — Jack Butcher
 <!--END_SECTION:daily_log-->
 
 ---
