@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Everyone you admire was once a beginner. — Jack Butcher
+When you are able to employ your will always for constructive purposes, you become the controller of your destiny. — Paramahansa Yogananda
 <!--END_SECTION:daily_log-->
 
 ---
