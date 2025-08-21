@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-When you are able to employ your will always for constructive purposes, you become the controller of your destiny. — Paramahansa Yogananda
+Let us always meet each other with smile, for the smile is the beginning of love. — Mother Teresa
 <!--END_SECTION:daily_log-->
 
 ---
