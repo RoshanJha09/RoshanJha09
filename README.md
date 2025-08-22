@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Let us always meet each other with smile, for the smile is the beginning of love. — Mother Teresa
+The only thing more frustrating than slanderers is those foolish enough to listen to them. — Criss Jami
 <!--END_SECTION:daily_log-->
 
 ---
