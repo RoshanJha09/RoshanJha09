@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The only thing more frustrating than slanderers is those foolish enough to listen to them. — Criss Jami
+For every minute you are angry you lose sixty seconds of happiness. — Ralph Waldo Emerson
 <!--END_SECTION:daily_log-->
 
 ---
