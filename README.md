@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future. — Deepak Chopra
+The finish line is just the beginning of a whole new race. — Unknown
 <!--END_SECTION:daily_log-->
 
 ---
