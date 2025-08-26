@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The finish line is just the beginning of a whole new race. — Unknown
+Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners. — Nicolas Chamfort
 <!--END_SECTION:daily_log-->
 
 ---
