@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners. — Nicolas Chamfort
+Remember, hope is a good thing, maybe the best of things. — Stephen King
 <!--END_SECTION:daily_log-->
 
 ---
