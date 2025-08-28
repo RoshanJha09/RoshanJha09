@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Remember, hope is a good thing, maybe the best of things. — Stephen King
+The less you respond to negative people, the more positive your life will become. — Paulo Coelho
 <!--END_SECTION:daily_log-->
 
 ---
