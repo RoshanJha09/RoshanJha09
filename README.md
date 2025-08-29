@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The less you respond to negative people, the more positive your life will become. — Paulo Coelho
+All you need is passion. If you have a passion for something, you'll create the talent. — Yanni
 <!--END_SECTION:daily_log-->
 
 ---
