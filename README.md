@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-All you need is passion. If you have a passion for something, you'll create the talent. — Yanni
+We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop. — Mother Teresa
 <!--END_SECTION:daily_log-->
 
 ---
