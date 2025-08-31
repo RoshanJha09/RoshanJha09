@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop. — Mother Teresa
+Gratitude is the fairest blossom which springs from the soul. — Henry Ward Beecher
 <!--END_SECTION:daily_log-->
 
 ---
