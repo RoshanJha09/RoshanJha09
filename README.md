@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Gratitude is the fairest blossom which springs from the soul. — Henry Ward Beecher
+Tragedy is a tool for the living to gain wisdom, not a guide by which to live. — Robert F. Kennedy
 <!--END_SECTION:daily_log-->
 
 ---
