@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Tragedy is a tool for the living to gain wisdom, not a guide by which to live. — Robert F. Kennedy
+Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly. — Marcus Aurelius
 <!--END_SECTION:daily_log-->
 
 ---
