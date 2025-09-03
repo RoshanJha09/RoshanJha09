@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly. — Marcus Aurelius
+Each of us is a unique strand in the intricate web of life and here to make a contribution. — Deepak Chopra
 <!--END_SECTION:daily_log-->
 
 ---
