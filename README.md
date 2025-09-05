@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-When people are free to do as they please, they usually imitate each other. — Eric Hoffer
+Success is never final, failure is never fatal. It's courage that counts. — John Wooden
 <!--END_SECTION:daily_log-->
 
 ---
