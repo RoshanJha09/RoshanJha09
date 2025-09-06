@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Success is never final, failure is never fatal. It's courage that counts. — John Wooden
+Progress lies not in enhancing what is, but in advancing toward what will be. — Kahlil Gibran
 <!--END_SECTION:daily_log-->
 
 ---
