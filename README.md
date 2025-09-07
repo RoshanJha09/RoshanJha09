@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Progress lies not in enhancing what is, but in advancing toward what will be. — Kahlil Gibran
+If you're not failing every now and again, it's a sign you're not doing anything very innovative. — Woody Allen
 <!--END_SECTION:daily_log-->
 
 ---
