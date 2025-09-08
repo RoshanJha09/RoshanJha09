@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you're not failing every now and again, it's a sign you're not doing anything very innovative. — Woody Allen
+No man is happy unless he believes he is. — Publilius Syrus
 <!--END_SECTION:daily_log-->
 
 ---
