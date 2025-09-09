@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-No man is happy unless he believes he is. — Publilius Syrus
+No one can confidently say that he will still be living tomorrow. — Euripides
 <!--END_SECTION:daily_log-->
 
 ---
