@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-No one can confidently say that he will still be living tomorrow. — Euripides
+Don't try to be young. Just open your mind. Stay interested in stuff. — Betty White
 <!--END_SECTION:daily_log-->
 
 ---
