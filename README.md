@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Don't try to be young. Just open your mind. Stay interested in stuff. — Betty White
+Love your enemies, for they tell you your faults. — Benjamin Franklin
 <!--END_SECTION:daily_log-->
 
 ---
