@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Love your enemies, for they tell you your faults. — Benjamin Franklin
+The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly. — Marcus Aurelius
 <!--END_SECTION:daily_log-->
 
 ---
