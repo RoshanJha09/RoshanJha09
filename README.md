@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly. — Marcus Aurelius
+Success is liking yourself, liking what you do, and liking how you do it. — Maya Angelou
 <!--END_SECTION:daily_log-->
 
 ---
