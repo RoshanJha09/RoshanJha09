@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Success is liking yourself, liking what you do, and liking how you do it. — Maya Angelou
+Success comes to those who become success conscious. — Napoleon Hill
 <!--END_SECTION:daily_log-->
 
 ---
