@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-They say love is the best investment; the more you give, the more you get in return. — Audrey Hepburn
+Never say never, because limits, like fears, are often just an illusion. — Michael Jordan
 <!--END_SECTION:daily_log-->
 
 ---
