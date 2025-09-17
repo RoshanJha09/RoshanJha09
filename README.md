@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Never say never, because limits, like fears, are often just an illusion. — Michael Jordan
+There are two kinds of perfect people: those who are dead, and those who have not been born yet. — Chinese Proverb
 <!--END_SECTION:daily_log-->
 
 ---
