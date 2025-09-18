@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-There are two kinds of perfect people: those who are dead, and those who have not been born yet. — Chinese Proverb
+The most important battle is one to conquer yourself. — Yanni
 <!--END_SECTION:daily_log-->
 
 ---
