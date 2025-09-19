@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The most important battle is one to conquer yourself. — Yanni
+The spirit is beyond destruction. No one can bring an end to spirit which is everlasting. — Bhagavad Gita
 <!--END_SECTION:daily_log-->
 
 ---
