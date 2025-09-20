@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The spirit is beyond destruction. No one can bring an end to spirit which is everlasting. — Bhagavad Gita
+Conscience is a man's compass.  — Vincent van Gogh
 <!--END_SECTION:daily_log-->
 
 ---
