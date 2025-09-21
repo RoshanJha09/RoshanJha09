@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Conscience is a man's compass.  — Vincent van Gogh
+Failure is a prerequisite for great success. If you want success faster, double your rate of failure. — Brian Tracy
 <!--END_SECTION:daily_log-->
 
 ---
