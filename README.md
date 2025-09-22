@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Failure is a prerequisite for great success. If you want success faster, double your rate of failure. — Brian Tracy
+Truth is exact correspondence with reality.  — Paramahansa Yogananda
 <!--END_SECTION:daily_log-->
 
 ---
