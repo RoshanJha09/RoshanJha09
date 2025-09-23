@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Truth is exact correspondence with reality.  — Paramahansa Yogananda
+It is in your moments of decision that your destiny is shaped. — Tony Robbins
 <!--END_SECTION:daily_log-->
 
 ---
