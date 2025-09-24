@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-It is in your moments of decision that your destiny is shaped. — Tony Robbins
+Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility. — Sigmund Freud
 <!--END_SECTION:daily_log-->
 
 ---
