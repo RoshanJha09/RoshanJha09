@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility. — Sigmund Freud
+The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. — Confucius
 <!--END_SECTION:daily_log-->
 
 ---
