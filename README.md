@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. — Confucius
+You may forget with whom you laughed, but you will never forget with whom you wept.   — Kahlil Gibran
 <!--END_SECTION:daily_log-->
 
 ---
