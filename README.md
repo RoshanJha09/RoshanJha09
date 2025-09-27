@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You may forget with whom you laughed, but you will never forget with whom you wept.   — Kahlil Gibran
+Don't give up the fight, Stand up for your rights. — Bob Marley
 <!--END_SECTION:daily_log-->
 
 ---
