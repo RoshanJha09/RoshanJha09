@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Don't give up the fight, Stand up for your rights. — Bob Marley
+Work for something because it is good, not just because it stands a chance to succeed. — Vaclav Havel
 <!--END_SECTION:daily_log-->
 
 ---
