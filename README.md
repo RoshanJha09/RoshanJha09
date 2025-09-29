@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Work for something because it is good, not just because it stands a chance to succeed. — Vaclav Havel
+In youth we run into difficulties. In old age difficulties run into us.  — Beverly Sills
 <!--END_SECTION:daily_log-->
 
 ---
