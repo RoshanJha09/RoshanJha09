@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-In youth we run into difficulties. In old age difficulties run into us.  — Beverly Sills
+Silence is a source of great strength. — Lao Tzu
 <!--END_SECTION:daily_log-->
 
 ---
