@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Silence is a source of great strength. — Lao Tzu
+I no doubt deserved my enemies, but I don't believe I deserved my friends. — Walt Whitman
 <!--END_SECTION:daily_log-->
 
 ---
