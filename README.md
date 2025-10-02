@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-I no doubt deserved my enemies, but I don't believe I deserved my friends. — Walt Whitman
+So we beat on, boats against the current, borne back ceaselessly into the past. — F. Scott Fitzgerald
 <!--END_SECTION:daily_log-->
 
 ---
