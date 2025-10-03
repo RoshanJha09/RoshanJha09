@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-So we beat on, boats against the current, borne back ceaselessly into the past. — F. Scott Fitzgerald
+Knowing yourself is the beginning of all wisdom. — Aristotle
 <!--END_SECTION:daily_log-->
 
 ---
