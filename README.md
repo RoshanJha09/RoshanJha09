@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Knowing yourself is the beginning of all wisdom. — Aristotle
+Courage is the price that life exacts for granting peace. — Amelia Earhart
 <!--END_SECTION:daily_log-->
 
 ---
