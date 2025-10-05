@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Courage is the price that life exacts for granting peace. — Amelia Earhart
+Anything you may hold firmly in your imagination can be yours. — William James
 <!--END_SECTION:daily_log-->
 
 ---
