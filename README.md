@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Anything you may hold firmly in your imagination can be yours. — William James
+Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people. — Roy T. Bennett
 <!--END_SECTION:daily_log-->
 
 ---
