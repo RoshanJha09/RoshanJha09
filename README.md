@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people. — Roy T. Bennett
+The trouble with most of us is that we'd rather be ruined by praise than saved by criticism. — Norman Vincent Peale
 <!--END_SECTION:daily_log-->
 
 ---
