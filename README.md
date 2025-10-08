@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The trouble with most of us is that we'd rather be ruined by praise than saved by criticism. — Norman Vincent Peale
+Success is good at any age, but the sooner you find it, the longer you will enjoy it. — Napoleon Hill
 <!--END_SECTION:daily_log-->
 
 ---
