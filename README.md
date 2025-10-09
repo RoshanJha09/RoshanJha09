@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Success is good at any age, but the sooner you find it, the longer you will enjoy it. — Napoleon Hill
+The nearer a man comes to a calm mind, the closer he is to strength. — Marcus Aurelius
 <!--END_SECTION:daily_log-->
 
 ---
