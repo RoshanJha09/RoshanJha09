@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The nearer a man comes to a calm mind, the closer he is to strength. — Marcus Aurelius
+Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before. — Alexander Graham Bell
 <!--END_SECTION:daily_log-->
 
 ---
