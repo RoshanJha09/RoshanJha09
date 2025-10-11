@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before. — Alexander Graham Bell
+A strong man overcomes an obstacle, a wise man goes the whole way. — Zen Proverb
 <!--END_SECTION:daily_log-->
 
 ---
