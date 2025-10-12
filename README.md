@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A strong man overcomes an obstacle, a wise man goes the whole way. — Zen Proverb
+Be - don't try to become  — Osho
 <!--END_SECTION:daily_log-->
 
 ---
