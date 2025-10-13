@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Be - don't try to become  — Osho
+At every moment where language can't go, that's your mind. — Bodhidharma
 <!--END_SECTION:daily_log-->
 
 ---
