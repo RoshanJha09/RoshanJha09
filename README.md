@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-At every moment where language can't go, that's your mind. — Bodhidharma
+If you set your goals ridiculously high and its a failure, you will fail above everyone elses success. — James Cameron
 <!--END_SECTION:daily_log-->
 
 ---
