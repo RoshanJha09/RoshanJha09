@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you set your goals ridiculously high and its a failure, you will fail above everyone elses success. — James Cameron
+Sometimes you have to travel a long way to find what is near. — Paulo Coelho
 <!--END_SECTION:daily_log-->
 
 ---
