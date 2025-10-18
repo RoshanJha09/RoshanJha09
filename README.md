@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction. — G.I. Gurdjieff
+Why compare yourself with others? No one in the entire world can do a better job of being you than you. — Unknown
 <!--END_SECTION:daily_log-->
 
 ---
