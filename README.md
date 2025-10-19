@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Why compare yourself with others? No one in the entire world can do a better job of being you than you. — Unknown
+All that a man achieves and all that he fails to achieve is the direct result of his own thoughts. — James Allen
 <!--END_SECTION:daily_log-->
 
 ---
