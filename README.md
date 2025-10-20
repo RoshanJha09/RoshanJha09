@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-All that a man achieves and all that he fails to achieve is the direct result of his own thoughts. — James Allen
+Admire as much as you can. Most people do not admire enough. — Vincent van Gogh
 <!--END_SECTION:daily_log-->
 
 ---
