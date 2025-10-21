@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Admire as much as you can. Most people do not admire enough. — Vincent van Gogh
+You are now, and you do become, what you think about. — Earl Nightingale
 <!--END_SECTION:daily_log-->
 
 ---
