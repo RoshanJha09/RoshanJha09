@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You are now, and you do become, what you think about. — Earl Nightingale
+You are never too old to become younger. — Mae West
 <!--END_SECTION:daily_log-->
 
 ---
