@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You are never too old to become younger. — Mae West
+Let us rather run the risk of wearing out than rusting out. — Theodore Roosevelt
 <!--END_SECTION:daily_log-->
 
 ---
