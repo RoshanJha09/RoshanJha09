@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Let us rather run the risk of wearing out than rusting out. — Theodore Roosevelt
+If you pray for rain, be prepared to deal with some mud. — Mary Engelbreit
 <!--END_SECTION:daily_log-->
 
 ---
