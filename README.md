@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you pray for rain, be prepared to deal with some mud. — Mary Engelbreit
+Dream big. Start small. But most of all, start. — Simon Sinek
 <!--END_SECTION:daily_log-->
 
 ---
