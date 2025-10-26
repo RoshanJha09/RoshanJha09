@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Dream big. Start small. But most of all, start. — Simon Sinek
+Everybody needs a passion. That's what keeps life interesting. — Betty White
 <!--END_SECTION:daily_log-->
 
 ---
