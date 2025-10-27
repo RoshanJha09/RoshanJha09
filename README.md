@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Everybody needs a passion. That's what keeps life interesting. — Betty White
+Success is stumbling from failure to failure with no loss of enthusiasm. — Winston Churchill
 <!--END_SECTION:daily_log-->
 
 ---
