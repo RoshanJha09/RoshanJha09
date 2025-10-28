@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Success is stumbling from failure to failure with no loss of enthusiasm. — Winston Churchill
+To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace. — Morihei Ueshiba
 <!--END_SECTION:daily_log-->
 
 ---
