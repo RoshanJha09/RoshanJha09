@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace. — Morihei Ueshiba
+If you pray for rain, be prepared to deal with some mud. — Mary Engelbreit
 <!--END_SECTION:daily_log-->
 
 ---
