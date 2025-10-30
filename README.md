@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you pray for rain, be prepared to deal with some mud. — Mary Engelbreit
+Many roads lead to the path, but basically there are only two: reason and practice.  — Bodhidharma
 <!--END_SECTION:daily_log-->
 
 ---
