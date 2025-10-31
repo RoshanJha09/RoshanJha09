@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Many roads lead to the path, but basically there are only two: reason and practice.  — Bodhidharma
+Conscience is a man's compass.  — Vincent van Gogh
 <!--END_SECTION:daily_log-->
 
 ---
