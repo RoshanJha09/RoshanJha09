@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Conscience is a man's compass.  — Vincent van Gogh
+The whole is greater than the sum of its parts. — Aristotle
 <!--END_SECTION:daily_log-->
 
 ---
