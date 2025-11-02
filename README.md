@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The whole is greater than the sum of its parts. — Aristotle
+Ripe fruit falls by itself - but it doesn't fall in your mouth.  — Chinese Proverb
 <!--END_SECTION:daily_log-->
 
 ---
