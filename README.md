@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Ripe fruit falls by itself - but it doesn't fall in your mouth.  — Chinese Proverb
+Life is the dancer and you are the dance. — Eckhart Tolle
 <!--END_SECTION:daily_log-->
 
 ---
