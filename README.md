@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Life is the dancer and you are the dance. — Eckhart Tolle
+No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes. — Alfred Adler
 <!--END_SECTION:daily_log-->
 
 ---
