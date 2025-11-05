@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes. — Alfred Adler
+Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you. — Richard Bach
 <!--END_SECTION:daily_log-->
 
 ---
