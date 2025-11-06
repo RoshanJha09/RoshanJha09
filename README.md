@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you. — Richard Bach
+Success comes to those who become success conscious. — Napoleon Hill
 <!--END_SECTION:daily_log-->
 
 ---
