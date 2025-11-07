@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Success comes to those who become success conscious. — Napoleon Hill
+A man with outward courage dares to die: a man with inner courage dares to live. — Lao Tzu
 <!--END_SECTION:daily_log-->
 
 ---
