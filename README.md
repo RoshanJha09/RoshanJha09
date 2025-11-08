@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A man with outward courage dares to die: a man with inner courage dares to live. — Lao Tzu
+Insanity: doing the same thing over and over again and expecting different results. — Albert Einstein
 <!--END_SECTION:daily_log-->
 
 ---
