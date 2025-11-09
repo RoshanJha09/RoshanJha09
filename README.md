@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Insanity: doing the same thing over and over again and expecting different results. — Albert Einstein
+Anyone telling you it's pointless to share your perspective is sharing their perspective. — Jack Butcher
 <!--END_SECTION:daily_log-->
 
 ---
