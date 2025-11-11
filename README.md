@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Learning never exhausts the mind.  — Leonardo da Vinci
+You have the ability, now apply yourself. — Benjamin Mays
 <!--END_SECTION:daily_log-->
 
 ---
