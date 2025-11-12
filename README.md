@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You have the ability, now apply yourself. — Benjamin Mays
+Good things aren't supposed to just fall into your lap. — Audrey Hepburn
 <!--END_SECTION:daily_log-->
 
 ---
