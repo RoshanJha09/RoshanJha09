@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Good things aren't supposed to just fall into your lap. — Audrey Hepburn
+Life is a traveling to the edge of knowledge, then a leap taken. — D. H. Lawrence
 <!--END_SECTION:daily_log-->
 
 ---
