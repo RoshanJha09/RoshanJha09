@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Life is a traveling to the edge of knowledge, then a leap taken. — D. H. Lawrence
+The strongest and sweetest songs yet remain to be sung. — Walt Whitman
 <!--END_SECTION:daily_log-->
 
 ---
