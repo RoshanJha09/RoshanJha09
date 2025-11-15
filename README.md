@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The strongest and sweetest songs yet remain to be sung. — Walt Whitman
+You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level. — Eckhart Tolle
 <!--END_SECTION:daily_log-->
 
 ---
