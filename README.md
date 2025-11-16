@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level. — Eckhart Tolle
+The future will be shaped by those willing to commit their minds and their bodies to the task. — Robert F. Kennedy
 <!--END_SECTION:daily_log-->
 
 ---
