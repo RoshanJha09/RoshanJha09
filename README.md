@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The future will be shaped by those willing to commit their minds and their bodies to the task. — Robert F. Kennedy
+Keep others in suspense, cultivate an air of unpredictability. — Robert Greene
 <!--END_SECTION:daily_log-->
 
 ---
