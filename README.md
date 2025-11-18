@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Keep others in suspense, cultivate an air of unpredictability. — Robert Greene
+You cannot find peace by avoiding life. — Virginia Woolf
 <!--END_SECTION:daily_log-->
 
 ---
