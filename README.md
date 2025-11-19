@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You cannot find peace by avoiding life. — Virginia Woolf
+If you want peace, you won't get it with violence. — John Lennon
 <!--END_SECTION:daily_log-->
 
 ---
