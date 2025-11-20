@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you want peace, you won't get it with violence. — John Lennon
+Do one thing every day that scares you. — Eleanor Roosevelt
 <!--END_SECTION:daily_log-->
 
 ---
