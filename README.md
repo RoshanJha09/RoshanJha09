@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Do one thing every day that scares you. — Eleanor Roosevelt
+The farther backward you can look, the farther forward you are likely to see. — Winston Churchill
 <!--END_SECTION:daily_log-->
 
 ---
