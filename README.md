@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The farther backward you can look, the farther forward you are likely to see. — Winston Churchill
+The dreamers are the saviors of the worlds. — James Allen
 <!--END_SECTION:daily_log-->
 
 ---
