@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The dreamers are the saviors of the worlds. — James Allen
+It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance. — Kamal Ravikant
 <!--END_SECTION:daily_log-->
 
 ---
