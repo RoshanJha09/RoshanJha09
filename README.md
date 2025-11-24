@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance. — Kamal Ravikant
+We make a living by what we get, but we make a life by what we give. — Unknown
 <!--END_SECTION:daily_log-->
 
 ---
