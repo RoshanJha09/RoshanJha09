@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-We make a living by what we get, but we make a life by what we give. — Unknown
+If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose. — Celestine Chua
 <!--END_SECTION:daily_log-->
 
 ---
