@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose. — Celestine Chua
+Confidence is consistency of thinking about what is possible and how to make it possible. — John Eliot
 <!--END_SECTION:daily_log-->
 
 ---
