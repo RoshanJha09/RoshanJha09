@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Confidence is consistency of thinking about what is possible and how to make it possible. — John Eliot
+Avoiding danger is no safer in the long run than exposure. — Helen Keller
 <!--END_SECTION:daily_log-->
 
 ---
