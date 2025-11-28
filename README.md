@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Avoiding danger is no safer in the long run than exposure. — Helen Keller
+What is a friend? A single soul dwelling in two bodies. — Aristotle
 <!--END_SECTION:daily_log-->
 
 ---
