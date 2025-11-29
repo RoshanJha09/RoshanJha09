@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-What is a friend? A single soul dwelling in two bodies. — Aristotle
+The first man gets the oyster, the second man gets the shell. — Andrew Carnegie
 <!--END_SECTION:daily_log-->
 
 ---
