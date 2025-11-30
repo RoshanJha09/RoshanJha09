@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The first man gets the oyster, the second man gets the shell. — Andrew Carnegie
+Anxiety is the dizziness of freedom. — Soren Kierkegaard
 <!--END_SECTION:daily_log-->
 
 ---
