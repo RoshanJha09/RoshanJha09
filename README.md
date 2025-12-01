@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Anxiety is the dizziness of freedom. — Soren Kierkegaard
+I like the dreams of the future better than the history of the past. — Thomas Jefferson
 <!--END_SECTION:daily_log-->
 
 ---
