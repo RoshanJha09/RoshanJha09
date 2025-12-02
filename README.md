@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-I like the dreams of the future better than the history of the past. — Thomas Jefferson
+The only way round is through. — Robert Frost
 <!--END_SECTION:daily_log-->
 
 ---
