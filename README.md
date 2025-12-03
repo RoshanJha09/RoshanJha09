@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The only way round is through. — Robert Frost
+Live your life and forget your age. — Norman Vincent Peale
 <!--END_SECTION:daily_log-->
 
 ---
