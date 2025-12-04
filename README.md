@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Live your life and forget your age. — Norman Vincent Peale
+One of the first signs of the beginning of understanding is the wish to die.  — Franz Kafka
 <!--END_SECTION:daily_log-->
 
 ---
