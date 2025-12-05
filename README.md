@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-One of the first signs of the beginning of understanding is the wish to die.  — Franz Kafka
+Conscience is a man's compass.  — Vincent van Gogh
 <!--END_SECTION:daily_log-->
 
 ---
