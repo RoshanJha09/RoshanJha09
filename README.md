@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Conscience is a man's compass.  — Vincent van Gogh
+The worst part of success is trying to find someone who is happy for you. — Bette Midler
 <!--END_SECTION:daily_log-->
 
 ---
