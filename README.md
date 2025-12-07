@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The worst part of success is trying to find someone who is happy for you. — Bette Midler
+We can either add to our character each day, or we can fritter away our energies in distractions. — Ming-Dao Deng
 <!--END_SECTION:daily_log-->
 
 ---
