@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Teachers open the door. You enter by yourself.  — Chinese Proverb
+When you consider things like the stars, our affairs don't seem to matter very much, do they? — Virginia Woolf
 <!--END_SECTION:daily_log-->
 
 ---
