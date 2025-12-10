@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-When you consider things like the stars, our affairs don't seem to matter very much, do they? — Virginia Woolf
+The soul should always stand ajar, ready to welcome the ecstatic experience. — Emily Dickinson
 <!--END_SECTION:daily_log-->
 
 ---
