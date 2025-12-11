@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The soul should always stand ajar, ready to welcome the ecstatic experience. — Emily Dickinson
+People who say it cannot be done should not interrupt those who are doing it. — George Bernard Shaw
 <!--END_SECTION:daily_log-->
 
 ---
