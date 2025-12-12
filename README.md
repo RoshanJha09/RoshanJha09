@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-People who say it cannot be done should not interrupt those who are doing it. — George Bernard Shaw
+Forever is composed of now's. — Emily Dickinson
 <!--END_SECTION:daily_log-->
 
 ---
