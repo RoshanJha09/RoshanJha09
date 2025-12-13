@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Forever is composed of now's. — Emily Dickinson
+You can never get enough of what you don't need to make you happy. — Eric Hoffer
 <!--END_SECTION:daily_log-->
 
 ---
