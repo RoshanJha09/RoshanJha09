@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You can never get enough of what you don't need to make you happy. — Eric Hoffer
+A good stance and posture reflect a proper state of mind. — Morihei Ueshiba
 <!--END_SECTION:daily_log-->
 
 ---
