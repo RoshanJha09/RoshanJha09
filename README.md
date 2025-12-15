@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A good stance and posture reflect a proper state of mind. — Morihei Ueshiba
+Believe nothing you hear, and only one half that you see. — Edgar Allan Poe
 <!--END_SECTION:daily_log-->
 
 ---
