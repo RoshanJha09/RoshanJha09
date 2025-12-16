@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Believe nothing you hear, and only one half that you see. — Edgar Allan Poe
+You don't get in life what you want; you get in life what you are. — Les Brown
 <!--END_SECTION:daily_log-->
 
 ---
