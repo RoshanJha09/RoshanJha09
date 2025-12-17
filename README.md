@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You don't get in life what you want; you get in life what you are. — Les Brown
+Who wishes to fight must first count the cost. — Sun Tzu
 <!--END_SECTION:daily_log-->
 
 ---
