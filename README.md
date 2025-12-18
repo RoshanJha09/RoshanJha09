@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Who wishes to fight must first count the cost. — Sun Tzu
+A single dream is more powerful than a thousand realities. — J.R.R. Tolkien
 <!--END_SECTION:daily_log-->
 
 ---
