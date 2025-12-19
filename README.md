@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A single dream is more powerful than a thousand realities. — J.R.R. Tolkien
+Don't gain the world and lose your soul. Wisdom is better than silver and gold. — Bob Marley
 <!--END_SECTION:daily_log-->
 
 ---
