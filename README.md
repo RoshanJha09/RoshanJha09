@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Don't gain the world and lose your soul. Wisdom is better than silver and gold. — Bob Marley
+There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. — Albert Einstein
 <!--END_SECTION:daily_log-->
 
 ---
