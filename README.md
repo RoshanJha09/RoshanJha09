@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. — Albert Einstein
+Do good, live in the most positive and joyful way possible every day. — Roy T. Bennett
 <!--END_SECTION:daily_log-->
 
 ---
