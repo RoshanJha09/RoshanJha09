@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Do good, live in the most positive and joyful way possible every day. — Roy T. Bennett
+I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry. — Tony Robbins
 <!--END_SECTION:daily_log-->
 
 ---
