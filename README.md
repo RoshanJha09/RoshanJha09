@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry. — Tony Robbins
+Enthusiasm is a vital element toward the individual success of every man or woman. — Conrad Hilton
 <!--END_SECTION:daily_log-->
 
 ---
