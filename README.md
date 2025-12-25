@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-He is richest who is content with the least, for content is the wealth of nature. — Socrates
+No man is happy unless he believes he is. — Publilius Syrus
 <!--END_SECTION:daily_log-->
 
 ---
