@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-No man is happy unless he believes he is. — Publilius Syrus
+People have the illusion that all over the world, all the time, all kinds of fantastic things are happening. — David Brinkley
 <!--END_SECTION:daily_log-->
 
 ---
