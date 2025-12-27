@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-People have the illusion that all over the world, all the time, all kinds of fantastic things are happening. — David Brinkley
+The finish line is just the beginning of a whole new race. — Unknown
 <!--END_SECTION:daily_log-->
 
 ---
