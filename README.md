@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The finish line is just the beginning of a whole new race. — Unknown
+Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work. — John Eliot
 <!--END_SECTION:daily_log-->
 
 ---
