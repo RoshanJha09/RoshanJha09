@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work. — John Eliot
+Why do you stay in prison when the door is so wide open? — Rumi
 <!--END_SECTION:daily_log-->
 
 ---
