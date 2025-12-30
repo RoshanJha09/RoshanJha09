@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Why do you stay in prison when the door is so wide open? — Rumi
+The best teacher is experience and not through someone's distorted point of view. — Jack Kerouac
 <!--END_SECTION:daily_log-->
 
 ---
