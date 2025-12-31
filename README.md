@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The best teacher is experience and not through someone's distorted point of view. — Jack Kerouac
+The weak can never forgive. Forgiveness is the attribute of the strong. — Mahatma Gandhi
 <!--END_SECTION:daily_log-->
 
 ---
