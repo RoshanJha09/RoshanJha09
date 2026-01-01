@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The weak can never forgive. Forgiveness is the attribute of the strong. — Mahatma Gandhi
+To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead. — Samuel Butler
 <!--END_SECTION:daily_log-->
 
 ---
