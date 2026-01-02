@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead. — Samuel Butler
+One of the oldest human needs is having someone to wonder where you are when you don't come home at night.  — Margaret Mead
 <!--END_SECTION:daily_log-->
 
 ---
