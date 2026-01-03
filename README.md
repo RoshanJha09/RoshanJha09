@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-One of the oldest human needs is having someone to wonder where you are when you don't come home at night.  — Margaret Mead
+Do not look for approval except for the consciousness of doing your best. — Andrew Carnegie
 <!--END_SECTION:daily_log-->
 
 ---
