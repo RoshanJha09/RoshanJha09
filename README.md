@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Do not look for approval except for the consciousness of doing your best. — Andrew Carnegie
+Our greatest glory is not in never falling but in rising every time we fall. — Confucius
 <!--END_SECTION:daily_log-->
 
 ---
