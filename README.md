@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Our greatest glory is not in never falling but in rising every time we fall. — Confucius
+The dreamers are the saviors of the worlds. — James Allen
 <!--END_SECTION:daily_log-->
 
 ---
