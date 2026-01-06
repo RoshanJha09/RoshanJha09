@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The dreamers are the saviors of the worlds. — James Allen
+Give more than you think you can, trusting that you are richer than you think. — Jon Kabat-Zinn
 <!--END_SECTION:daily_log-->
 
 ---
