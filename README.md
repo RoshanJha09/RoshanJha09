@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Give more than you think you can, trusting that you are richer than you think. — Jon Kabat-Zinn
+The more you are motivated by Love, The more Fearless & Free your action will be. — Dalai Lama
 <!--END_SECTION:daily_log-->
 
 ---
