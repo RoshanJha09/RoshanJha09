@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The more you are motivated by Love, The more Fearless & Free your action will be. — Dalai Lama
+All happiness depends on courage and work. — Honore de Balzac
 <!--END_SECTION:daily_log-->
 
 ---
