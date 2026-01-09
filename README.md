@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-All happiness depends on courage and work. — Honore de Balzac
+You may be one person in this world, but to one person you may mean the world. — Unknown
 <!--END_SECTION:daily_log-->
 
 ---
