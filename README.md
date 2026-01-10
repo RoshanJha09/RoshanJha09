@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You may be one person in this world, but to one person you may mean the world. — Unknown
+Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live! — Alfred Adler
 <!--END_SECTION:daily_log-->
 
 ---
