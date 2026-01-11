@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live! — Alfred Adler
+Better the cottage where one is merry than the palace where one weeps. — Chinese Proverb
 <!--END_SECTION:daily_log-->
 
 ---
