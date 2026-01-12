@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Better the cottage where one is merry than the palace where one weeps. — Chinese Proverb
+The power to make and break habits and learning how to do that is really important. — Naval Ravikant
 <!--END_SECTION:daily_log-->
 
 ---
