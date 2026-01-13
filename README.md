@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The power to make and break habits and learning how to do that is really important. — Naval Ravikant
+Embrace the life you have and stop wishing that you could be someone else. — Joyce Meyer
 <!--END_SECTION:daily_log-->
 
 ---
