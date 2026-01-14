@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Embrace the life you have and stop wishing that you could be someone else. — Joyce Meyer
+Do not allow your inner doubts to keep you from achieving what you can do. — Lolly Daskal
 <!--END_SECTION:daily_log-->
 
 ---
