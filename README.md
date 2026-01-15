@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Do not allow your inner doubts to keep you from achieving what you can do. — Lolly Daskal
+Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present. — George Bernard Shaw
 <!--END_SECTION:daily_log-->
 
 ---
