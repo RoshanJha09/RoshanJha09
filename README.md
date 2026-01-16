@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present. — George Bernard Shaw
+Every act of creation is first an act of destruction. — Pablo Picasso
 <!--END_SECTION:daily_log-->
 
 ---
