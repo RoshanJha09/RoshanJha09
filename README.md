@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Every act of creation is first an act of destruction. — Pablo Picasso
+Don't live the same year 75 times and call it a life. — Robin Sharma
 <!--END_SECTION:daily_log-->
 
 ---
