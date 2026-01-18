@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Don't live the same year 75 times and call it a life. — Robin Sharma
+Fear, uncertainty, and discomfort are your compasses toward growth. — Celestine Chua
 <!--END_SECTION:daily_log-->
 
 ---
