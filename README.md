@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Fear, uncertainty, and discomfort are your compasses toward growth. — Celestine Chua
+When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything. — Paramahansa Yogananda
 <!--END_SECTION:daily_log-->
 
 ---
