@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything. — Paramahansa Yogananda
+Where words fail, music speaks. — Hans Christian Andersen
 <!--END_SECTION:daily_log-->
 
 ---
