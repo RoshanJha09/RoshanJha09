@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Where words fail, music speaks. — Hans Christian Andersen
+You have the potential for greatness. — Steve Harvey
 <!--END_SECTION:daily_log-->
 
 ---
