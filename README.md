@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You have the potential for greatness. — Steve Harvey
+If the happiness and prosperity of other people depend on you, you have nothing to fear anymore. — Robert Greene
 <!--END_SECTION:daily_log-->
 
 ---
