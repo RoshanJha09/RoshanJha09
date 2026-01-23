@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If the happiness and prosperity of other people depend on you, you have nothing to fear anymore. — Robert Greene
+The eyes of others our prisons; their thoughts our cages. — Virginia Woolf
 <!--END_SECTION:daily_log-->
 
 ---
