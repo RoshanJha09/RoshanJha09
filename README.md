@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The eyes of others our prisons; their thoughts our cages. — Virginia Woolf
+Common sense is not so common.  — Voltaire
 <!--END_SECTION:daily_log-->
 
 ---
