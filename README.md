@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Common sense is not so common.  — Voltaire
+Keep away from people who try to belittle your ambitions. — Mark Twain
 <!--END_SECTION:daily_log-->
 
 ---
