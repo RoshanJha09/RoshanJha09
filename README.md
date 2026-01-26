@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Keep away from people who try to belittle your ambitions. — Mark Twain
+The goal of an artist is to create the definitive work that cannot be surpassed. — George Bernard Shaw
 <!--END_SECTION:daily_log-->
 
 ---
