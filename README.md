@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The goal of an artist is to create the definitive work that cannot be surpassed. — George Bernard Shaw
+It is never too late to be what you might have been. — George Eliot
 <!--END_SECTION:daily_log-->
 
 ---
