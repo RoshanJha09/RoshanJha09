@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-It is never too late to be what you might have been. — George Eliot
+There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience. — Deepak Chopra
 <!--END_SECTION:daily_log-->
 
 ---
