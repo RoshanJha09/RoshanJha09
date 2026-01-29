@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience. — Deepak Chopra
+A man is great not because he hasn't failed; a man is great because failure hasn't stopped him. — Confucius
 <!--END_SECTION:daily_log-->
 
 ---
