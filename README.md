@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A man is great not because he hasn't failed; a man is great because failure hasn't stopped him. — Confucius
+Without the rain there would be no rainbow. — Gilbert Chesterton
 <!--END_SECTION:daily_log-->
 
 ---
