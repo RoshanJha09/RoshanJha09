@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Without the rain there would be no rainbow. — Gilbert Chesterton
+There are no secrets to success. It is the result of preparation, hard work, and learning from failure. — Colin Powell
 <!--END_SECTION:daily_log-->
 
 ---
