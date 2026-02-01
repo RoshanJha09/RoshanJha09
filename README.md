@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-There are no secrets to success. It is the result of preparation, hard work, and learning from failure. — Colin Powell
+Death is not sad; the sad thing is that most people don't really live at all. — Dan Millman
 <!--END_SECTION:daily_log-->
 
 ---
