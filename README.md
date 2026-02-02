@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Death is not sad; the sad thing is that most people don't really live at all. — Dan Millman
+If you chase two rabbits, you catch none. — Confucius
 <!--END_SECTION:daily_log-->
 
 ---
