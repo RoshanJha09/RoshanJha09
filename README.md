@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you chase two rabbits, you catch none. — Confucius
+Any fool can turn a blind eye but who knows what the ostrich sees in the sand. — Samuel Beckett
 <!--END_SECTION:daily_log-->
 
 ---
