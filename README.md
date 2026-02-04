@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Any fool can turn a blind eye but who knows what the ostrich sees in the sand. — Samuel Beckett
+If you're afraid to die, you're afraid to live. You can't have one without the other. — Rita Mae Brown
 <!--END_SECTION:daily_log-->
 
 ---
