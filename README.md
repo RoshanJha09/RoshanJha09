@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you're afraid to die, you're afraid to live. You can't have one without the other. — Rita Mae Brown
+Success is a consequence and must not be a goal. — Gustave Flaubert
 <!--END_SECTION:daily_log-->
 
 ---
