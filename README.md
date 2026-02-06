@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Success is a consequence and must not be a goal. — Gustave Flaubert
+Success is getting what you want... Happiness is wanting what you get. — Dale Carnegie
 <!--END_SECTION:daily_log-->
 
 ---
