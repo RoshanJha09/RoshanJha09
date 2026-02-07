@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Success is getting what you want... Happiness is wanting what you get. — Dale Carnegie
+Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine. — Zen Proverb
 <!--END_SECTION:daily_log-->
 
 ---
