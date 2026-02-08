@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine. — Zen Proverb
+You are the only real obstacle in your path to a fulfilling life. — Les Brown
 <!--END_SECTION:daily_log-->
 
 ---
