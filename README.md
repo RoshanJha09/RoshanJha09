@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You are the only real obstacle in your path to a fulfilling life. — Les Brown
+We build too many walls and not enough bridges. — Isaac Newton
 <!--END_SECTION:daily_log-->
 
 ---
