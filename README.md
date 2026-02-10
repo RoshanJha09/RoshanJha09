@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-We build too many walls and not enough bridges. — Isaac Newton
+Better to die fighting for freedom than be a prisoner all the days of your life. — Bob Marley
 <!--END_SECTION:daily_log-->
 
 ---
