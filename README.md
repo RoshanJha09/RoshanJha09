@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Fishing is much more than fish. — Herbert Hoover
+Identify your problems, but give your power and energy to solutions. — Tony Robbins
 <!--END_SECTION:daily_log-->
 
 ---
