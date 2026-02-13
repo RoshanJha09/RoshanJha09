@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Identify your problems, but give your power and energy to solutions. — Tony Robbins
+They say love is the best investment; the more you give, the more you get in return. — Audrey Hepburn
 <!--END_SECTION:daily_log-->
 
 ---
