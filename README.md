@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-They say love is the best investment; the more you give, the more you get in return. — Audrey Hepburn
+Do not bite at the bait of pleasure, till you know there is no hook beneath it. — Thomas Jefferson
 <!--END_SECTION:daily_log-->
 
 ---
