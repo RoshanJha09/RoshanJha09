@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Do not bite at the bait of pleasure, till you know there is no hook beneath it. — Thomas Jefferson
+There are few reasons for telling the truth, but for lying the number is infinite. — Carlos Ruiz Zafon
 <!--END_SECTION:daily_log-->
 
 ---
