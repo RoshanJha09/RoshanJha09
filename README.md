@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-There are few reasons for telling the truth, but for lying the number is infinite. — Carlos Ruiz Zafon
+All that a man achieves and all that he fails to achieve is the direct result of his own thoughts. — James Allen
 <!--END_SECTION:daily_log-->
 
 ---
