@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-All that a man achieves and all that he fails to achieve is the direct result of his own thoughts. — James Allen
+Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do. — Elvis Presley
 <!--END_SECTION:daily_log-->
 
 ---
