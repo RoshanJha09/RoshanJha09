@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do. — Elvis Presley
+It's not whether you get knocked down, its whether you get back up. — Vince Lombardi
 <!--END_SECTION:daily_log-->
 
 ---
