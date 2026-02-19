@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-It's not whether you get knocked down, its whether you get back up. — Vince Lombardi
+People think you're crazy if you talk about things they don't understand. — Elvis Presley
 <!--END_SECTION:daily_log-->
 
 ---
