@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-People think you're crazy if you talk about things they don't understand. — Elvis Presley
+Everything has its beauty, but not everyone sees it.  — Confucius
 <!--END_SECTION:daily_log-->
 
 ---
