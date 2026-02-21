@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Everything has its beauty, but not everyone sees it.  — Confucius
+Nothing is hopeless; we must hope for everything. — Euripides
 <!--END_SECTION:daily_log-->
 
 ---
