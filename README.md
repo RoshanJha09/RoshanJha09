@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Nothing is hopeless; we must hope for everything. — Euripides
+A gentleman is one who puts more into the world than he takes out. — George Bernard Shaw
 <!--END_SECTION:daily_log-->
 
 ---
