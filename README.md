@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A gentleman is one who puts more into the world than he takes out. — George Bernard Shaw
+Remember, today is the tomorrow you worried about yesterday. — Dale Carnegie
 <!--END_SECTION:daily_log-->
 
 ---
