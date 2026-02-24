@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Remember, today is the tomorrow you worried about yesterday. — Dale Carnegie
+Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time. — Thomas Jefferson
 <!--END_SECTION:daily_log-->
 
 ---
