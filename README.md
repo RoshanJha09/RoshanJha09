@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time. — Thomas Jefferson
+Do not allow your inner doubts to keep you from achieving what you can do. — Lolly Daskal
 <!--END_SECTION:daily_log-->
 
 ---
