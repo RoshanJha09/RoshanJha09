@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Do not allow your inner doubts to keep you from achieving what you can do. — Lolly Daskal
+Failure is an option, fear is not. — James Cameron
 <!--END_SECTION:daily_log-->
 
 ---
