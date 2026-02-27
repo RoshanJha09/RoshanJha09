@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Failure is an option, fear is not. — James Cameron
+The more you trust yourself, the less you compare yourself to others. — Roy T. Bennett
 <!--END_SECTION:daily_log-->
 
 ---
