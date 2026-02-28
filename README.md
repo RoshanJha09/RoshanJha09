@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The more you trust yourself, the less you compare yourself to others. — Roy T. Bennett
+The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is. — Eckhart Tolle
 <!--END_SECTION:daily_log-->
 
 ---
