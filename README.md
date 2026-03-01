@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is. — Eckhart Tolle
+To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others. — Criss Jami
 <!--END_SECTION:daily_log-->
 
 ---
