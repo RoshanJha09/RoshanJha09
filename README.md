@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others. — Criss Jami
+Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it! — Sathya Sai Baba
 <!--END_SECTION:daily_log-->
 
 ---
