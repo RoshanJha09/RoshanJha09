@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it! — Sathya Sai Baba
+Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. — Peter Drucker
 <!--END_SECTION:daily_log-->
 
 ---
