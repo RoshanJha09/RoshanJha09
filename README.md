@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. — Peter Drucker
+The educated differ from the uneducated as much as the living differ from the dead. — Aristotle
 <!--END_SECTION:daily_log-->
 
 ---
