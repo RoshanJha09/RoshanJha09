@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The educated differ from the uneducated as much as the living differ from the dead. — Aristotle
+He who wishes to be obeyed must know how to command. — Niccolo Machiavelli
 <!--END_SECTION:daily_log-->
 
 ---
