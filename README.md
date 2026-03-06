@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-He who wishes to be obeyed must know how to command. — Niccolo Machiavelli
+Most people dabble their way through life, never deciding to master anything in particular. — Tony Robbins
 <!--END_SECTION:daily_log-->
 
 ---
