@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Most people dabble their way through life, never deciding to master anything in particular. — Tony Robbins
+Your life does not get better by chance, it gets better by change. — Jim Rohn
 <!--END_SECTION:daily_log-->
 
 ---
