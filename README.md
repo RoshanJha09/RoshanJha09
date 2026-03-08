@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Your life does not get better by chance, it gets better by change. — Jim Rohn
+Time you enjoy wasting, was not wasted. — John Lennon
 <!--END_SECTION:daily_log-->
 
 ---
