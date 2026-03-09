@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Time you enjoy wasting, was not wasted. — John Lennon
+We build too many walls and not enough bridges. — Isaac Newton
 <!--END_SECTION:daily_log-->
 
 ---
