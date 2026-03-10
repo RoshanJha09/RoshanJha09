@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-We build too many walls and not enough bridges. — Isaac Newton
+You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being. — Anita Krizzan
 <!--END_SECTION:daily_log-->
 
 ---
