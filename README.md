@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being. — Anita Krizzan
+In the midst of chaos, there is also opportunity. — Sun Tzu
 <!--END_SECTION:daily_log-->
 
 ---
