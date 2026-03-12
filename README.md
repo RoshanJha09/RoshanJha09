@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-In the midst of chaos, there is also opportunity. — Sun Tzu
+Walk slowly but never walk backward. — Unknown
 <!--END_SECTION:daily_log-->
 
 ---
