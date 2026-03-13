@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Walk slowly but never walk backward. — Unknown
+If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you. — T.S. Eliot
 <!--END_SECTION:daily_log-->
 
 ---
