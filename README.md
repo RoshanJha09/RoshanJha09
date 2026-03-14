@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you. — T.S. Eliot
+If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed. — Mark Twain
 <!--END_SECTION:daily_log-->
 
 ---
