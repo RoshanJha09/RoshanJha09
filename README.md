@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed. — Mark Twain
+Dream big and dare to fail. — Norman Vaughan
 <!--END_SECTION:daily_log-->
 
 ---
