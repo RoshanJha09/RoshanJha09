@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Dream big and dare to fail. — Norman Vaughan
+There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world. — Henry Ward Beecher
 <!--END_SECTION:daily_log-->
 
 ---
