@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Our greatest glory is not in never falling but in rising every time we fall. — Confucius
+Waste no more time arguing about what a good man should be. Be one. — Marcus Aurelius
 <!--END_SECTION:daily_log-->
 
 ---
