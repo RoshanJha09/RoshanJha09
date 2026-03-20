@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Waste no more time arguing about what a good man should be. Be one. — Marcus Aurelius
+The moment you stop to think about whether you love someone, you've already stopped loving that person forever. — Carlos Ruiz Zafon
 <!--END_SECTION:daily_log-->
 
 ---
