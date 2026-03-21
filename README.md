@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The moment you stop to think about whether you love someone, you've already stopped loving that person forever. — Carlos Ruiz Zafon
+When you rise in the morning, form a resolution to make the day a happy one for a fellow creature. — Sydney Smith
 <!--END_SECTION:daily_log-->
 
 ---
