@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-When you rise in the morning, form a resolution to make the day a happy one for a fellow creature. — Sydney Smith
+A flower falls, even though we love it; and a weed grows, even though we do not love it. — Dogen
 <!--END_SECTION:daily_log-->
 
 ---
