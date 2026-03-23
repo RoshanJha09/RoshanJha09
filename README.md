@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A flower falls, even though we love it; and a weed grows, even though we do not love it. — Dogen
+Fools resist. The wise embrace. — Maxime Lagace
 <!--END_SECTION:daily_log-->
 
 ---
