@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Fools resist. The wise embrace. — Maxime Lagace
+Those who cannot change their minds cannot change anything. — George Bernard Shaw
 <!--END_SECTION:daily_log-->
 
 ---
