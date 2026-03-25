@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Those who cannot change their minds cannot change anything. — George Bernard Shaw
+Sometimes a change of perspective is all it takes to see the light. — Dan Brown
 <!--END_SECTION:daily_log-->
 
 ---
