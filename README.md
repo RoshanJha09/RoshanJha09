@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Sometimes a change of perspective is all it takes to see the light. — Dan Brown
+Wise people, even though all laws were abolished, would still lead the same life. — Aristophanes
 <!--END_SECTION:daily_log-->
 
 ---
