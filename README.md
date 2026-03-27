@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Wise people, even though all laws were abolished, would still lead the same life. — Aristophanes
+It doesn't matter where you are, you are nowhere compared to where you can go. — Bob Proctor
 <!--END_SECTION:daily_log-->
 
 ---
