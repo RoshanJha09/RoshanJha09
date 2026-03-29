@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't. — Steve Maraboli
+To the world you may be one person; but to one person you may be the world. — Dr. Seuss
 <!--END_SECTION:daily_log-->
 
 ---
