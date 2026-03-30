@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-To the world you may be one person; but to one person you may be the world. — Dr. Seuss
+Take care of your body. It's the only place you have to live. — Jim Rohn
 <!--END_SECTION:daily_log-->
 
 ---
