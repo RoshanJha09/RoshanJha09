@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place. — Bhagavad Gita
+We are all self-made, but only the successful will admit it. — Earl Nightingale
 <!--END_SECTION:daily_log-->
 
 ---
