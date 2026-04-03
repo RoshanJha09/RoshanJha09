@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. — Robert Greene
+Everyone is a moon, and has a dark side which he never shows to anybody. — Mark Twain
 <!--END_SECTION:daily_log-->
 
 ---
