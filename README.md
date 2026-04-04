@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Everyone is a moon, and has a dark side which he never shows to anybody. — Mark Twain
+Nothing that results in human progress is achieved with unanimous consent. — Christopher Columbus
 <!--END_SECTION:daily_log-->
 
 ---
