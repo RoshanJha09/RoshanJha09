@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Nothing that results in human progress is achieved with unanimous consent. — Christopher Columbus
+Victims recite problems, leaders provide solutions. — Robin Sharma
 <!--END_SECTION:daily_log-->
 
 ---
