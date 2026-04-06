@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Victims recite problems, leaders provide solutions. — Robin Sharma
+Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward. — Roy T. Bennett
 <!--END_SECTION:daily_log-->
 
 ---
