@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-
+If you are unable to find the truth right where you are, where else do you expect to find it? — Dogen
 <!--END_SECTION:daily_log-->
 
 ---
