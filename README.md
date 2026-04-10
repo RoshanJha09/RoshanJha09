@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you practiced for the day, then you have won. If you were lazy for the day, then you have lost. — Ming-Dao Deng
+Inner peace is when you realize that, in the end, nothing matters. — Maxime Lagace
 <!--END_SECTION:daily_log-->
 
 ---
