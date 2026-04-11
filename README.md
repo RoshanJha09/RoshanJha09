@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Inner peace is when you realize that, in the end, nothing matters. — Maxime Lagace
+You are never too old to become younger. — Mae West
 <!--END_SECTION:daily_log-->
 
 ---
