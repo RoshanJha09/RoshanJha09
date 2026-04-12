@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You are never too old to become younger. — Mae West
+Hope is a waking dream. — Aristotle
 <!--END_SECTION:daily_log-->
 
 ---
