@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Hope is a waking dream. — Aristotle
+The source of a true smile is an awakened mind. — Thich Nhat Hanh
 <!--END_SECTION:daily_log-->
 
 ---
