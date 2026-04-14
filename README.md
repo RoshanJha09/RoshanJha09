@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The source of a true smile is an awakened mind. — Thich Nhat Hanh
+Be willing to be a beginner every single morning. — Meister Eckhart
 <!--END_SECTION:daily_log-->
 
 ---
