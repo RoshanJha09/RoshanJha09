@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Be willing to be a beginner every single morning. — Meister Eckhart
+In life you need either inspiration or desperation. — Tony Robbins
 <!--END_SECTION:daily_log-->
 
 ---
