@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-In life you need either inspiration or desperation. — Tony Robbins
+Concentrated power has always been the enemy of liberty. — Ronald Reagan
 <!--END_SECTION:daily_log-->
 
 ---
