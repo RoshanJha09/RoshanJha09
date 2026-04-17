@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Concentrated power has always been the enemy of liberty. — Ronald Reagan
+A tiger doesn't lose sleep over the opinion of sheep. — Shahir Zag
 <!--END_SECTION:daily_log-->
 
 ---
