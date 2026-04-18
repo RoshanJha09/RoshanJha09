@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A tiger doesn't lose sleep over the opinion of sheep. — Shahir Zag
+The opportunity of defeating the enemy is provided by the enemy himself. — Sun Tzu
 <!--END_SECTION:daily_log-->
 
 ---
