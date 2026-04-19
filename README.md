@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The opportunity of defeating the enemy is provided by the enemy himself. — Sun Tzu
+Life is a gift. Never forget to enjoy and bask in every moment you are in. — Celestine Chua
 <!--END_SECTION:daily_log-->
 
 ---
