@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Life is a gift. Never forget to enjoy and bask in every moment you are in. — Celestine Chua
+Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth. — Henry David Thoreau
 <!--END_SECTION:daily_log-->
 
 ---
