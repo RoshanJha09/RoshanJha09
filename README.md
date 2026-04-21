@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth. — Henry David Thoreau
+Act the way you want to be and soon you'll be the way you act. — Les Brown
 <!--END_SECTION:daily_log-->
 
 ---
