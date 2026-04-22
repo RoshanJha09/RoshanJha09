@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Act the way you want to be and soon you'll be the way you act. — Les Brown
+A leader is one who knows the way, goes the way, and shows the way. — Unknown
 <!--END_SECTION:daily_log-->
 
 ---
