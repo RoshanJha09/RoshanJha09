@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A leader is one who knows the way, goes the way, and shows the way. — Unknown
+Don't waste time on excuses. Just get it done. — Ralph Marston
 <!--END_SECTION:daily_log-->
 
 ---
