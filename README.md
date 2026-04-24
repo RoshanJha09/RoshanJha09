@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Don't waste time on excuses. Just get it done. — Ralph Marston
+For fast-acting relief try slowing down. — Lily Tomlin
 <!--END_SECTION:daily_log-->
 
 ---
