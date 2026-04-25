@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-For fast-acting relief try slowing down. — Lily Tomlin
+Absorb what is useful, discard what is useless and add what is specifically your own.   — Bruce Lee
 <!--END_SECTION:daily_log-->
 
 ---
