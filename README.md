@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Absorb what is useful, discard what is useless and add what is specifically your own.   — Bruce Lee
+Where we fall are the stepping-stones for our journey. — Lolly Daskal
 <!--END_SECTION:daily_log-->
 
 ---
