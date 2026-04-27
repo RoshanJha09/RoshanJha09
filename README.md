@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Where we fall are the stepping-stones for our journey. — Lolly Daskal
+Every artist dips his brush in his own soul, and paints his own nature into his pictures. — Henry Ward Beecher
 <!--END_SECTION:daily_log-->
 
 ---
