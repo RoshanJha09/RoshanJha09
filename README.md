@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Every artist dips his brush in his own soul, and paints his own nature into his pictures. — Henry Ward Beecher
+The only lost cause is one we give up on before we enter the struggle. — Vaclav Havel
 <!--END_SECTION:daily_log-->
 
 ---
