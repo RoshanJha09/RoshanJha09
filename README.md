@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The only lost cause is one we give up on before we enter the struggle. — Vaclav Havel
+Never to suffer would never to have been blessed. — Edgar Allan Poe
 <!--END_SECTION:daily_log-->
 
 ---
