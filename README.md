@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Never to suffer would never to have been blessed. — Edgar Allan Poe
+The soul is neither born, and nor does it die. — Bhagavad Gita
 <!--END_SECTION:daily_log-->
 
 ---
