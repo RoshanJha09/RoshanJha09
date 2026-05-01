@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The soul is neither born, and nor does it die. — Bhagavad Gita
+A random act of kindness, no matter how small, can make a tremendous impact on someone else's life. — Roy T. Bennett
 <!--END_SECTION:daily_log-->
 
 ---
