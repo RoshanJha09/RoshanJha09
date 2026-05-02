@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A random act of kindness, no matter how small, can make a tremendous impact on someone else's life. — Roy T. Bennett
+Don't let the silly little dramas of each day get you down. For you are here to do great things. — Ralph Marston
 <!--END_SECTION:daily_log-->
 
 ---
