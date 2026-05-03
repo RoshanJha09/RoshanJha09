@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Don't let the silly little dramas of each day get you down. For you are here to do great things. — Ralph Marston
+When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place. — Bhagavad Gita
 <!--END_SECTION:daily_log-->
 
 ---
