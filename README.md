@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place. — Bhagavad Gita
+The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone.  — Orison Swett Marden
 <!--END_SECTION:daily_log-->
 
 ---
