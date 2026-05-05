@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone.  — Orison Swett Marden
+It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power! — Robert Kiyosaki
 <!--END_SECTION:daily_log-->
 
 ---
