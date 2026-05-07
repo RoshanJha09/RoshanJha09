@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Good entrepreneurs don't fail because they stay at it. — Naval Ravikant
+Go for it now. The future is promised to no one.  — Wayne Dyer
 <!--END_SECTION:daily_log-->
 
 ---
