@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Go for it now. The future is promised to no one.  — Wayne Dyer
+If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you. — Paramahansa Yogananda
 <!--END_SECTION:daily_log-->
 
 ---
