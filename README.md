@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you. — Paramahansa Yogananda
+The most important things are the hardest to say. — Stephen King
 <!--END_SECTION:daily_log-->
 
 ---
