@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed.  — Albert Einstein
+It's OK to have your eggs in one basket as long as you control what happens to that basket. — Elon Musk
 <!--END_SECTION:daily_log-->
 
 ---
