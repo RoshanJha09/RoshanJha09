@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-
+Becoming a great leader doesn't mean being perfect. it means living with your imperfections. — Lolly Daskal
 <!--END_SECTION:daily_log-->
 
 ---
