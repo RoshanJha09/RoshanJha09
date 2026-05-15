@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it. — George Eliot
+Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. — Margaret Mead
 <!--END_SECTION:daily_log-->
 
 ---
