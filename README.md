@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. — Margaret Mead
+People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents. — Andrew Carnegie
 <!--END_SECTION:daily_log-->
 
 ---
