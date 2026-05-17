@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents. — Andrew Carnegie
+It's the job that's never started that takes the longest to finish. — J.R.R. Tolkien
 <!--END_SECTION:daily_log-->
 
 ---
