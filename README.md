@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-It's the job that's never started that takes the longest to finish. — J.R.R. Tolkien
+Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. — Paulo Coelho
 <!--END_SECTION:daily_log-->
 
 ---
