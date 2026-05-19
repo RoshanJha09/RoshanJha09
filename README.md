@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. — Paulo Coelho
+Begin at once to live, and count each separate day as a separate life.   — Seneca
 <!--END_SECTION:daily_log-->
 
 ---
