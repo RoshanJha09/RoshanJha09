@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Life is 10% what happens to you and 90% how you react to it.  — Charles Swindoll
+Learn only how to avoid seeking for and attaching yourselves to anything. — Huang Po
 <!--END_SECTION:daily_log-->
 
 ---
