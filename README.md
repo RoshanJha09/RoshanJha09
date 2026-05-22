@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Learn only how to avoid seeking for and attaching yourselves to anything. — Huang Po
+The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination. — Elbert Hubbard
 <!--END_SECTION:daily_log-->
 
 ---
