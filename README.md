@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination. — Elbert Hubbard
+Being entirely honest with oneself is a good exercise. — Sigmund Freud
 <!--END_SECTION:daily_log-->
 
 ---
