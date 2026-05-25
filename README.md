@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Being entirely honest with oneself is a good exercise. — Sigmund Freud
+It is better to light a single candle than to curse the darkness. — Eleanor Roosevelt
 <!--END_SECTION:daily_log-->
 
 ---
