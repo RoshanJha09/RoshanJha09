@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities. — Josh Waitzkin
+Champions keep playing until they get it right. — Billie Jean King
 <!--END_SECTION:daily_log-->
 
 ---
