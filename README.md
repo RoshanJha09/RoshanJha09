@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Champions keep playing until they get it right. — Billie Jean King
+When you have to make a choice and don't make it, that is in itself a choice. — William James
 <!--END_SECTION:daily_log-->
 
 ---
