@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-When you have to make a choice and don't make it, that is in itself a choice. — William James
+The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety. — Sathya Sai Baba
 <!--END_SECTION:daily_log-->
 
 ---
