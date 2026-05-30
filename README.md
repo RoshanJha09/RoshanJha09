@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety. — Sathya Sai Baba
+Trust is the foundation of great leadership. — Lolly Daskal
 <!--END_SECTION:daily_log-->
 
 ---
