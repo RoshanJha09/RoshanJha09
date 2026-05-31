@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Trust is the foundation of great leadership. — Lolly Daskal
+Circumstances rule men; men do not rule circumstances. — Herodotus
 <!--END_SECTION:daily_log-->
 
 ---
