@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Circumstances rule men; men do not rule circumstances. — Herodotus
+Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. — Colin R. Davis
 <!--END_SECTION:daily_log-->
 
 ---
