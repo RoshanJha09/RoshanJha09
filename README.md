@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. — Colin R. Davis
+Wheels of justice grind slow but grind fine. — Sun Tzu
 <!--END_SECTION:daily_log-->
 
 ---
