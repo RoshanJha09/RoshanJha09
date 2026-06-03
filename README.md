@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Wheels of justice grind slow but grind fine. — Sun Tzu
+Instead of being intimidated by the limitations, be inspired to find new ways around them. — Ralph Marston
 <!--END_SECTION:daily_log-->
 
 ---
