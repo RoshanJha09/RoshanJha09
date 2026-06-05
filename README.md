@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Learn to value yourself, which means: fight for your happiness. — Ayn Rand
+You become stronger with every problem you face and every obstacle you overcome. — Celestine Chua
 <!--END_SECTION:daily_log-->
 
 ---
