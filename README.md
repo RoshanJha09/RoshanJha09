@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You become stronger with every problem you face and every obstacle you overcome. — Celestine Chua
+Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have? — Eckhart Tolle
 <!--END_SECTION:daily_log-->
 
 ---
