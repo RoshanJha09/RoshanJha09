@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have? — Eckhart Tolle
+Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored. — Earl Nightingale
 <!--END_SECTION:daily_log-->
 
 ---
