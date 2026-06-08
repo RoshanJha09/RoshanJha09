@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored. — Earl Nightingale
+Life can only be understood backwards; but it must be lived forwards. — Soren Kierkegaard
 <!--END_SECTION:daily_log-->
 
 ---
