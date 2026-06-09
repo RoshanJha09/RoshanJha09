@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Life can only be understood backwards; but it must be lived forwards. — Soren Kierkegaard
+If you want peace, you won't get it with violence. — John Lennon
 <!--END_SECTION:daily_log-->
 
 ---
