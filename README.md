@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you want peace, you won't get it with violence. — John Lennon
+If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness. — Unknown
 <!--END_SECTION:daily_log-->
 
 ---
