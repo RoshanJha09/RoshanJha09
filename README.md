@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness. — Unknown
+Man is affected not by events but by the view he takes of them. — Seneca
 <!--END_SECTION:daily_log-->
 
 ---
