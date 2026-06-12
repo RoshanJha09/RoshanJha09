@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Man is affected not by events but by the view he takes of them. — Seneca
+Great minds are always feared by lesser minds. — Dan Brown
 <!--END_SECTION:daily_log-->
 
 ---
