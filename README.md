@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Great minds are always feared by lesser minds. — Dan Brown
+Strive for excellence, not perfection, because we don't live in a perfect world. — Joyce Meyer
 <!--END_SECTION:daily_log-->
 
 ---
