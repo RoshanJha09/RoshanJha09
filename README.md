@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Strive for excellence, not perfection, because we don't live in a perfect world. — Joyce Meyer
+If you can't, you must. If you must, you can. — Tony Robbins
 <!--END_SECTION:daily_log-->
 
 ---
