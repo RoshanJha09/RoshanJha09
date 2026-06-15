@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you can't, you must. If you must, you can. — Tony Robbins
+The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less. — Dan Millman
 <!--END_SECTION:daily_log-->
 
 ---
