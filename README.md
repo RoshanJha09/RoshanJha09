@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less. — Dan Millman
+The secret of success lies not in doing your own work, but in recognizing the right man to do it. — Andrew Carnegie
 <!--END_SECTION:daily_log-->
 
 ---
