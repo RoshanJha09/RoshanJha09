@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The secret of success lies not in doing your own work, but in recognizing the right man to do it. — Andrew Carnegie
+If you are lucky enough to find love, remember it is there and don't throw it away. — Stephen Hawking
 <!--END_SECTION:daily_log-->
 
 ---
