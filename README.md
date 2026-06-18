@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you are lucky enough to find love, remember it is there and don't throw it away. — Stephen Hawking
+So long as we are being remembered, we remain alive. — Carlos Ruiz Zafon
 <!--END_SECTION:daily_log-->
 
 ---
