@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time. — Thomas Jefferson
+Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful. — Estee Lauder
 <!--END_SECTION:daily_log-->
 
 ---
