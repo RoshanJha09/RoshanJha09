@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful. — Estee Lauder
+A man who cannot tolerate small misfortunes can never accomplish great things. — Chinese Proverb
 <!--END_SECTION:daily_log-->
 
 ---
