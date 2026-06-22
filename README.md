@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A man who cannot tolerate small misfortunes can never accomplish great things. — Chinese Proverb
+Question everything. Learn something. Answer nothing. — Euripides
 <!--END_SECTION:daily_log-->
 
 ---
