@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Question everything. Learn something. Answer nothing. — Euripides
+Identification with our mind causes thought to become compulsive. — Eckhart Tolle
 <!--END_SECTION:daily_log-->
 
 ---
