@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Identification with our mind causes thought to become compulsive. — Eckhart Tolle
+You are not only responsible for what you say, but also for what you do not say. — Martin Luther
 <!--END_SECTION:daily_log-->
 
 ---
