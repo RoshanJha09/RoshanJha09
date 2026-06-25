@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You are not only responsible for what you say, but also for what you do not say. — Martin Luther
+One must be deeply aware of the impermanence of the world. — Dogen
 <!--END_SECTION:daily_log-->
 
 ---
