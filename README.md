@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-One must be deeply aware of the impermanence of the world. — Dogen
+You have as much laughter as you have faith. — Martin Luther
 <!--END_SECTION:daily_log-->
 
 ---
