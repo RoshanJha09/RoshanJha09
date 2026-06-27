@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You have as much laughter as you have faith. — Martin Luther
+Failure is the highway to success. — Og Mandino
 <!--END_SECTION:daily_log-->
 
 ---
