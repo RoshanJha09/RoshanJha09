@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Truth is like the sun. You can shut it out for a time, but it ain't going away. — Elvis Presley
+When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place. — Bhagavad Gita
 <!--END_SECTION:daily_log-->
 
 ---
