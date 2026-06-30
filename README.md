@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place. — Bhagavad Gita
+If you are going to achieve excellence in big things, you develop the habit in little matters. — Colin Powell
 <!--END_SECTION:daily_log-->
 
 ---
