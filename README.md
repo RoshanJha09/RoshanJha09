@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you are going to achieve excellence in big things, you develop the habit in little matters. — Colin Powell
+A life without a cause is a life without effect. — Paulo Coelho
 <!--END_SECTION:daily_log-->
 
 ---
