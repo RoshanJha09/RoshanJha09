@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A life without a cause is a life without effect. — Paulo Coelho
+Never stand begging for that which you have the power to earn. — Miguel de Cervantes
 <!--END_SECTION:daily_log-->
 
 ---
