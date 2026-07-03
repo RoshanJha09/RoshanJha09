@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Never stand begging for that which you have the power to earn. — Miguel de Cervantes
+If everyone is moving forward together, then success takes care of itself. — Henry Ford
 <!--END_SECTION:daily_log-->
 
 ---
