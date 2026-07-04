@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If everyone is moving forward together, then success takes care of itself. — Henry Ford
+There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. — Orison Swett Marden
 <!--END_SECTION:daily_log-->
 
 ---
