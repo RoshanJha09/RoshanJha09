@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. — Orison Swett Marden
+The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. — Orison Swett Marden
 <!--END_SECTION:daily_log-->
 
 ---
