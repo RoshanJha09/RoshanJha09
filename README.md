@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Memory is the scribe of the soul. — Aristotle
+In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists. — Eric Hoffer
 <!--END_SECTION:daily_log-->
 
 ---
