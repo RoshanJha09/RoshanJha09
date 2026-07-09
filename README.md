@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The best way to predict your future is to create it. — Abraham Lincoln
+A man is literally what he thinks. — James Allen
 <!--END_SECTION:daily_log-->
 
 ---
