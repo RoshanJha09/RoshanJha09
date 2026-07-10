@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A man is literally what he thinks. — James Allen
+Imagination is more important than knowledge. — Albert Einstein
 <!--END_SECTION:daily_log-->
 
 ---
