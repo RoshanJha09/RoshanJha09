@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-One of the first signs of the beginning of understanding is the wish to die. — Franz Kafka
+If you can't argue both sides, you can't argue. — Jack Butcher
 <!--END_SECTION:daily_log-->
 
 ---
