@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you can't argue both sides, you can't argue. — Jack Butcher
+Life is love and love is life. — Elvis Presley
 <!--END_SECTION:daily_log-->
 
 ---
