@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Life is love and love is life. — Elvis Presley
+
 <!--END_SECTION:daily_log-->
 
 ---
