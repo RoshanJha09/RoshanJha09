@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin. — Charles Darwin
+Originality is the fine art of remembering what you hear but forgetting where you heard it. — Laurence J. Peter
 <!--END_SECTION:daily_log-->
 
 ---
