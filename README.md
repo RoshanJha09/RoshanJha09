@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Originality is the fine art of remembering what you hear but forgetting where you heard it. — Laurence J. Peter
+The older you get, the better you get. Unless you're a banana. — Betty White
 <!--END_SECTION:daily_log-->
 
 ---
