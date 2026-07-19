@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The older you get, the better you get. Unless you're a banana. — Betty White
+Let us always meet each other with smile, for the smile is the beginning of love. — Mother Teresa
 <!--END_SECTION:daily_log-->
 
 ---
