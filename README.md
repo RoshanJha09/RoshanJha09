@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Let us always meet each other with smile, for the smile is the beginning of love. — Mother Teresa
+We build too many walls and not enough bridges. — Isaac Newton
 <!--END_SECTION:daily_log-->
 
 ---
