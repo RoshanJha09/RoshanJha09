@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-We build too many walls and not enough bridges. — Isaac Newton
+We are shaped and fashioned by what we love. — Johann Wolfgang von Goethe
 <!--END_SECTION:daily_log-->
 
 ---
