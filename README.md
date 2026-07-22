@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-We are shaped and fashioned by what we love. — Johann Wolfgang von Goethe
+Being entirely honest with oneself is a good exercise. — Sigmund Freud
 <!--END_SECTION:daily_log-->
 
 ---
