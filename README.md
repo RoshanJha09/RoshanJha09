@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Being entirely honest with oneself is a good exercise. — Sigmund Freud
+Longevity is a fleeting moment that lasts forever. — Vidal Sassoon
 <!--END_SECTION:daily_log-->
 
 ---
