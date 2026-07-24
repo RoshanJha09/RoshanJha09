@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Longevity is a fleeting moment that lasts forever. — Vidal Sassoon
+
 <!--END_SECTION:daily_log-->
 
 ---
