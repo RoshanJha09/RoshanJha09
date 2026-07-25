@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-
+If you can change your mind, you can change your life. — William James
 <!--END_SECTION:daily_log-->
 
 ---
