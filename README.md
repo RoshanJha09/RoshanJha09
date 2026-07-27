@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-It is safer to search in the maze than to remain in a cheeseless situation. — Spencer Johnson
+Happiness is only real, when shared. — Christopher McCandless
 <!--END_SECTION:daily_log-->
 
 ---
