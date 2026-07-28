@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Happiness is only real, when shared. — Christopher McCandless
+An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind. — Ayn Rand
 <!--END_SECTION:daily_log-->
 
 ---
