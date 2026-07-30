@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-All happiness depends on courage and work. — Honore de Balzac
+To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little. — Criss Jami
 <!--END_SECTION:daily_log-->
 
 ---
