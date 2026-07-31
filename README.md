@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little. — Criss Jami
+The wise warrior avoids the battle. — Sun Tzu
 <!--END_SECTION:daily_log-->
 
 ---
