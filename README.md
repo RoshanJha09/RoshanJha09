@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The wise warrior avoids the battle. — Sun Tzu
+In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists. — Eric Hoffer
 <!--END_SECTION:daily_log-->
 
 ---
