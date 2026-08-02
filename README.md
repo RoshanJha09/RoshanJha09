@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists. — Eric Hoffer
+I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams. — D. H. Lawrence
 <!--END_SECTION:daily_log-->
 
 ---
