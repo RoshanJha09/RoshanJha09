@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams. — D. H. Lawrence
+All cruelty springs from weakness. — Seneca
 <!--END_SECTION:daily_log-->
 
 ---
