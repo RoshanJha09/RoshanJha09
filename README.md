@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-All cruelty springs from weakness. — Seneca
+The only real mistake is the one from which we learn nothing. — Henry Ford
 <!--END_SECTION:daily_log-->
 
 ---
