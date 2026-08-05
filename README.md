@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The only real mistake is the one from which we learn nothing. — Henry Ford
+Do not be so open-minded that your brains fall out. — Gilbert Chesterton
 <!--END_SECTION:daily_log-->
 
 ---
