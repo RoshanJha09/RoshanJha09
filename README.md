@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Do not be so open-minded that your brains fall out. — Gilbert Chesterton
+Cleverness is not wisdom. — Euripides
 <!--END_SECTION:daily_log-->
 
 ---
