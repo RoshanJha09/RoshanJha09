@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Cleverness is not wisdom. — Euripides
+The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive. — Herodotus
 <!--END_SECTION:daily_log-->
 
 ---
