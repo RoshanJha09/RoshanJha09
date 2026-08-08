@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive. — Herodotus
+Unlike the stomach, the brain doesn't alert you when it's empty. — Arabic Proverb
 <!--END_SECTION:daily_log-->
 
 ---
