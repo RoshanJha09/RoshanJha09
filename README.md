@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Unlike the stomach, the brain doesn't alert you when it's empty. — Arabic Proverb
+No man can get rich himself unless he enriches others. — Earl Nightingale
 <!--END_SECTION:daily_log-->
 
 ---
