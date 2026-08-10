@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-No man can get rich himself unless he enriches others. — Earl Nightingale
+If you want something new, you have to stop doing something old. — Peter Drucker
 <!--END_SECTION:daily_log-->
 
 ---
