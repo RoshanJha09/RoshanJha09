@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you want something new, you have to stop doing something old. — Peter Drucker
+One must be deeply aware of the impermanence of the world. — Dogen
 <!--END_SECTION:daily_log-->
 
 ---
