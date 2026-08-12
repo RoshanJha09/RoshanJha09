@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-One must be deeply aware of the impermanence of the world. — Dogen
+You change the world by being yourself. — Yoko Ono
 <!--END_SECTION:daily_log-->
 
 ---
