@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-You change the world by being yourself. — Yoko Ono
+The only man who never makes mistakes is the man who never does anything. — Theodore Roosevelt
 <!--END_SECTION:daily_log-->
 
 ---
