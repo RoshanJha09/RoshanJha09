@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The only man who never makes mistakes is the man who never does anything. — Theodore Roosevelt
+The best way out is always through. — Robert Frost
 <!--END_SECTION:daily_log-->
 
 ---
