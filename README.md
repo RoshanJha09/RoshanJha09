@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The best way out is always through. — Robert Frost
+The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich. — Carlos Ruiz Zafon
 <!--END_SECTION:daily_log-->
 
 ---
