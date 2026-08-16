@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich. — Carlos Ruiz Zafon
+If you do what you've always done, you'll get what you've always gotten. — Tony Robbins
 <!--END_SECTION:daily_log-->
 
 ---
