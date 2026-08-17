@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you do what you've always done, you'll get what you've always gotten. — Tony Robbins
+It's always to soon to quit! — Norman Vincent Peale
 <!--END_SECTION:daily_log-->
 
 ---
