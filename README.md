@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-It's always to soon to quit! — Norman Vincent Peale
+The first principle of success is desire. — Robert Collier
 <!--END_SECTION:daily_log-->
 
 ---
