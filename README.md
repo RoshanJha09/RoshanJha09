@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The first principle of success is desire. — Robert Collier
+Success is an iceberg. — Unknown
 <!--END_SECTION:daily_log-->
 
 ---
