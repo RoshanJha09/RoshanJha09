@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace. — Ming-Dao Deng
+Arise, slay thy enemies, enjoy a prosperous kingdom. — Bhagavad Gita
 <!--END_SECTION:daily_log-->
 
 ---
