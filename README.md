@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Arise, slay thy enemies, enjoy a prosperous kingdom. — Bhagavad Gita
+If you do not conquer self, you will be conquered by self. — Napoleon Hill
 <!--END_SECTION:daily_log-->
 
 ---
