@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-If you do not conquer self, you will be conquered by self. — Napoleon Hill
+Be like a postage stamp. Stick to it until you get there. — Bob Proctor
 <!--END_SECTION:daily_log-->
 
 ---
