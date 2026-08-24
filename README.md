@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Be like a postage stamp. Stick to it until you get there. — Bob Proctor
+Every one of us is the sum total of his own thoughts. — Earl Nightingale
 <!--END_SECTION:daily_log-->
 
 ---
