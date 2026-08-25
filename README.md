@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Every one of us is the sum total of his own thoughts. — Earl Nightingale
+Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him. — James Allen
 <!--END_SECTION:daily_log-->
 
 ---
