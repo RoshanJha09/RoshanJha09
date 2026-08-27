@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view. — Alfred Adler
+A man's worth is no greater than his ambitions. — Marcus Aurelius
 <!--END_SECTION:daily_log-->
 
 ---
