@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-A man's worth is no greater than his ambitions. — Marcus Aurelius
+Don't risk what is important to you, to get what is not important to you. — Warren Buffett
 <!--END_SECTION:daily_log-->
 
 ---
