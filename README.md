@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Don't risk what is important to you, to get what is not important to you. — Warren Buffett
+No matter how tall the mountain is, it cannot block the sun. — Chinese Proverb
 <!--END_SECTION:daily_log-->
 
 ---
