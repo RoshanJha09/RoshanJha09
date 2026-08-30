@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-No matter how tall the mountain is, it cannot block the sun. — Chinese Proverb
+Don't let someone elses. opinion become your reality. — Les Brown
 <!--END_SECTION:daily_log-->
 
 ---
