@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Don't let someone elses. opinion become your reality. — Les Brown
+Every experience is a lesson. Every loss is a gain. — Sathya Sai Baba
 <!--END_SECTION:daily_log-->
 
 ---
