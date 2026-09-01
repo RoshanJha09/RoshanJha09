@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Every experience is a lesson. Every loss is a gain. — Sathya Sai Baba
+In peace, sons bury their fathers. In war, fathers bury their sons. — Herodotus
 <!--END_SECTION:daily_log-->
 
 ---
