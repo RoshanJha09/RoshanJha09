@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-In peace, sons bury their fathers. In war, fathers bury their sons. — Herodotus
+Obstacles are those frightful things you see when you take your eyes off your goal. — Henry Ford
 <!--END_SECTION:daily_log-->
 
 ---
