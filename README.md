@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Obstacles are those frightful things you see when you take your eyes off your goal. — Henry Ford
+When there is nothing to do, do nothing. — Warren Buffett
 <!--END_SECTION:daily_log-->
 
 ---
