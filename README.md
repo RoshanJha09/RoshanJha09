@@ -10,7 +10,7 @@
 ## 🧠 Daily Motivation
 
 <!--START_SECTION:daily_log-->
-Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great. — Billie Jean King
+The greatest of all mistakes is to do nothing because you think you can only do a little. — Zig Ziglar
 <!--END_SECTION:daily_log-->
 
 ---
